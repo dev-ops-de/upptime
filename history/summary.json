@@ -60,9 +60,9 @@
     "url": "http://www.dev-ops.de",
     "icon": "https://favicons.githubusercontent.com/www.dev-ops.de",
     "slug": "dev-ops-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,7 +71,9 @@
     "timeWeek": 573,
     "timeMonth": 723,
     "timeYear": 723,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-19": 0
+    }
   },
   {
     "name": "status.minusserver.com",
@@ -79,11 +81,11 @@
     "icon": "https://favicons.githubusercontent.com/status.minusserver.com",
     "slug": "status-minusserver-com",
     "status": "up",
-    "uptime": "96.21%",
+    "uptime": "96.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.21%",
-    "uptimeYear": "96.21%",
+    "uptimeMonth": "96.29%",
+    "uptimeYear": "96.29%",
     "time": 207,
     "timeDay": 176,
     "timeWeek": 178,
