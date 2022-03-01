@@ -22,9 +22,9 @@
     "url": "https://de.wikipedia.org",
     "icon": "https://favicons.githubusercontent.com/de.wikipedia.org",
     "slug": "wikipedia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 321,
     "timeMonth": 304,
     "timeYear": 375,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-01": 0
+    }
   },
   {
     "name": "Test Broken Site",
@@ -80,11 +82,11 @@
     "icon": "https://favicons.githubusercontent.com/status.minusserver.com",
     "slug": "status-minusserver-com",
     "status": "up",
-    "uptime": "99.37%",
+    "uptime": "99.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.37%",
+    "uptimeYear": "99.38%",
     "time": 206,
     "timeDay": 192,
     "timeWeek": 166,
