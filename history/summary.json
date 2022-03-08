@@ -22,18 +22,20 @@
     "url": "https://de.wikipedia.org",
     "icon": "https://favicons.githubusercontent.com/de.wikipedia.org",
     "slug": "wikipedia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 373,
-    "timeDay": 352,
-    "timeWeek": 330,
-    "timeMonth": 302,
-    "timeYear": 373,
-    "dailyMinutesDown": {}
+    "time": 371,
+    "timeDay": 246,
+    "timeWeek": 309,
+    "timeMonth": 297,
+    "timeYear": 371,
+    "dailyMinutesDown": {
+      "2022-03-08": 0
+    }
   },
   {
     "name": "Test Broken Site",
