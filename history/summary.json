@@ -2,7 +2,7 @@
   {
     "name": "Google",
     "url": "https://www.google.com",
-    "icon": "https://favicons.githubusercontent.com/www.google.com",
+    "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
@@ -11,16 +11,16 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 116,
-    "timeDay": 68,
-    "timeWeek": 115,
-    "timeMonth": 127,
+    "timeDay": 61,
+    "timeWeek": 111,
+    "timeMonth": 126,
     "timeYear": 116,
     "dailyMinutesDown": {}
   },
   {
     "name": "Wikipedia",
     "url": "https://de.wikipedia.org",
-    "icon": "https://favicons.githubusercontent.com/de.wikipedia.org",
+    "icon": "https://icons.duckduckgo.com/ip3/de.wikipedia.org.ico",
     "slug": "wikipedia",
     "status": "up",
     "uptime": "100.00%",
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 336,
-    "timeDay": 438,
-    "timeWeek": 265,
-    "timeMonth": 262,
+    "timeDay": 223,
+    "timeWeek": 244,
+    "timeMonth": 266,
     "timeYear": 331,
     "dailyMinutesDown": {
       "2022-03-08": 17
@@ -40,7 +40,7 @@
   {
     "name": "Test Broken Site",
     "url": "https://thissitedoesnotexist.koj.co",
-    "icon": "https://favicons.githubusercontent.com/thissitedoesnotexist.koj.co",
+    "icon": "https://icons.duckduckgo.com/ip3/thissitedoesnotexist.koj.co.ico",
     "slug": "test-broken-site",
     "status": "down",
     "uptime": "100.00%",
@@ -58,7 +58,7 @@
   {
     "name": "Dev-Ops.de",
     "url": "http://www.dev-ops.de",
-    "icon": "https://favicons.githubusercontent.com/www.dev-ops.de",
+    "icon": "https://icons.duckduckgo.com/ip3/www.dev-ops.de.ico",
     "slug": "dev-ops-de",
     "status": "up",
     "uptime": "99.90%",
@@ -67,10 +67,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 1104,
-    "timeDay": 1110,
-    "timeWeek": 1250,
-    "timeMonth": 1281,
-    "timeYear": 1124,
+    "timeDay": 1137,
+    "timeWeek": 1109,
+    "timeMonth": 1258,
+    "timeYear": 1126,
     "dailyMinutesDown": {
       "2022-01-17": 369,
       "2021-10-19": 180
@@ -79,7 +79,7 @@
   {
     "name": "status.minusserver.com",
     "url": "https://status.minusserver.com",
-    "icon": "https://favicons.githubusercontent.com/status.minusserver.com",
+    "icon": "https://icons.duckduckgo.com/ip3/status.minusserver.com.ico",
     "slug": "status-minusserver-com",
     "status": "up",
     "uptime": "99.71%",
@@ -88,9 +88,9 @@
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.70%",
     "time": 202,
-    "timeDay": 117,
-    "timeWeek": 184,
-    "timeMonth": 207,
+    "timeDay": 84,
+    "timeWeek": 170,
+    "timeMonth": 205,
     "timeYear": 202,
     "dailyMinutesDown": {
       "2022-09-15": 74,
