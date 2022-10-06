@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 116,
-    "timeDay": 70,
-    "timeWeek": 71,
-    "timeMonth": 126,
-    "timeYear": 116,
+    "timeDay": 93,
+    "timeWeek": 74,
+    "timeMonth": 127,
+    "timeYear": 115,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 336,
-    "timeDay": 257,
-    "timeWeek": 258,
-    "timeMonth": 259,
+    "timeDay": 457,
+    "timeWeek": 293,
+    "timeMonth": 271,
     "timeYear": 331,
     "dailyMinutesDown": {
       "2022-03-08": 17
@@ -66,10 +66,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 1105,
-    "timeDay": 1221,
-    "timeWeek": 1161,
-    "timeMonth": 1275,
+    "time": 1104,
+    "timeDay": 703,
+    "timeWeek": 1127,
+    "timeMonth": 1248,
     "timeYear": 1129,
     "dailyMinutesDown": {
       "2022-01-17": 369,
@@ -82,20 +82,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.minusserver.com.ico",
     "slug": "status-minusserver-com",
     "status": "up",
-    "uptime": "99.71%",
+    "uptime": "99.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
-    "uptimeYear": "99.70%",
+    "uptimeYear": "99.98%",
     "time": 202,
-    "timeDay": 193,
-    "timeWeek": 177,
-    "timeMonth": 207,
-    "timeYear": 202,
+    "timeDay": 140,
+    "timeWeek": 172,
+    "timeMonth": 205,
+    "timeYear": 203,
     "dailyMinutesDown": {
       "2022-09-15": 74,
-      "2022-06-21": 35,
-      "2021-10-06": 138
+      "2022-06-21": 35
     }
   }
 ]
