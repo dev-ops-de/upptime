@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 102,
-    "timeDay": 58,
-    "timeWeek": 141,
-    "timeMonth": 123,
+    "timeDay": 100,
+    "timeWeek": 103,
+    "timeMonth": 122,
     "timeYear": 106,
     "dailyMinutesDown": {
       "2022-10-31": 17
@@ -26,18 +26,16 @@
     "slug": "wikipedia",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 358,
-    "timeDay": 179,
-    "timeWeek": 409,
-    "timeMonth": 314,
+    "time": 357,
+    "timeDay": 206,
+    "timeWeek": 382,
+    "timeMonth": 312,
     "timeYear": 374,
-    "dailyMinutesDown": {
-      "2023-05-30": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Test Broken Site",
@@ -68,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1258,
-    "timeDay": 816,
-    "timeWeek": 1291,
-    "timeMonth": 1464,
-    "timeYear": 1285,
+    "time": 1257,
+    "timeDay": 1055,
+    "timeWeek": 1210,
+    "timeMonth": 1451,
+    "timeYear": 1286,
     "dailyMinutesDown": {
       "2023-01-25": 37
     }
@@ -83,15 +81,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.minusserver.com.ico",
     "slug": "status-minusserver-com",
     "status": "up",
-    "uptime": "99.82%",
+    "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 194,
-    "timeDay": 161,
-    "timeWeek": 219,
-    "timeMonth": 201,
+    "timeDay": 101,
+    "timeWeek": 187,
+    "timeMonth": 198,
     "timeYear": 189,
     "dailyMinutesDown": {
       "2022-09-15": 74,
