@@ -1,7 +1,7 @@
 url: http://www.dev-ops.de
 status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-09-27T23:10:43.479Z
+code: 500
+responseTime: 1006
+lastUpdated: 2023-09-28T23:10:37.196Z
 startTime: 2021-09-22T11:54:01.000Z
 generator: Upptime <https://github.com/upptime/upptime>
