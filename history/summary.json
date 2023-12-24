@@ -62,18 +62,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.dev-ops.de.ico",
     "slug": "dev-ops-de",
     "status": "down",
-    "uptime": "86.00%",
+    "uptime": "85.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "68.55%",
+    "uptimeYear": "68.44%",
     "time": 1313,
     "timeDay": 967,
     "timeWeek": 1072,
     "timeMonth": 1209,
     "timeYear": 1310,
     "dailyMinutesDown": {
-      "2023-12-24": 76,
+      "2023-12-24": 686,
       "2023-12-23": 1440,
       "2023-12-22": 1440,
       "2023-12-21": 1440,
@@ -197,9 +197,9 @@
     "url": "https://status.minusserver.com",
     "icon": "https://icons.duckduckgo.com/ip3/status.minusserver.com.ico",
     "slug": "status-minusserver-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -208,6 +208,8 @@
     "timeWeek": 154,
     "timeMonth": 175,
     "timeYear": 180,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-24": 0
+    }
   }
 ]
