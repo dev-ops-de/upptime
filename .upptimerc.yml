@@ -7,10 +7,6 @@ sites:
     url: https://www.google.com
   - name: Wikipedia
     url: https://de.wikipedia.org
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: Dev-Ops.de
-    url: http://www.dev-ops.de
   - name: status.minusserver.com
     url: https://status.minusserver.com 
 
