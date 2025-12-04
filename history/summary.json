@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 108,
-    "timeDay": 523,
+    "timeDay": 79,
     "timeWeek": 146,
-    "timeMonth": 148,
+    "timeMonth": 147,
     "timeYear": 111,
     "dailyMinutesDown": {}
   },
@@ -24,18 +24,16 @@
     "slug": "wikipedia",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.10%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 273,
-    "timeDay": 244,
-    "timeWeek": 214,
-    "timeMonth": 176,
-    "timeYear": 249,
-    "dailyMinutesDown": {
-      "2025-12-03": 13
-    }
+    "time": 272,
+    "timeDay": 203,
+    "timeWeek": 211,
+    "timeMonth": 159,
+    "timeYear": 248,
+    "dailyMinutesDown": {}
   },
   {
     "name": "status.minusserver.com",
@@ -49,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 204,
-    "timeDay": 216,
-    "timeWeek": 198,
-    "timeMonth": 208,
+    "timeDay": 131,
+    "timeWeek": 182,
+    "timeMonth": 203,
     "timeYear": 211,
     "dailyMinutesDown": {}
   }
