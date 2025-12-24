@@ -40,17 +40,19 @@
     "url": "https://status.minusserver.com",
     "icon": "https://icons.duckduckgo.com/ip3/status.minusserver.com.ico",
     "slug": "status-minusserver-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 205,
-    "timeDay": 192,
-    "timeWeek": 229,
-    "timeMonth": 206,
+    "timeDay": 154,
+    "timeWeek": 215,
+    "timeMonth": 203,
     "timeYear": 215,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-24": 0
+    }
   }
 ]
